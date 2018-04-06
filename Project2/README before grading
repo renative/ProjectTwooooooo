@@ -1,0 +1,15 @@
+I cant get my interactive element to work because I can not get my second floater (the milk) to be collectable, for some reason (literally ive spent 2 hours on it deleted everything and asked everyone and it wont work.)
+Anyway with collecting the milk the player was suppose to be able to have superspeed for a time.
+I will put the code for the speedboost here since i cant test if it works with the milk and i dont know if its right or wrong and i want my game to atleast be playable.
+
+function Milk() {
+playerXSpeed = 12;}
+setTimeout(boostStop, 20);
+}
+
+SOURCES FOR ART:
+yarn by my boyfriend
+milk by my boyfriend
+cat from https://www.redbubble.com/people/levieenderp/works/29380220-pixel-cat?p=sticker and then color changed by me
+background from https://www.pinterest.nz/pin/497366352577611450/
+spikes from http://pixelartmaker.com/art/dca2574a41f6294

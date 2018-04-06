@@ -1,0 +1,33 @@
+.background    { background-image: url("images/cloud.png");
+                  background-size: 550px 590px;
+                  table-layout: fixed;
+                   border-spacing: 0;   }}
+.background td { padding: 0;          }
+.lava          { background-image: url("images/water.png");
+                background-size:20px 20px;}
+.wall          { background: white;}
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("images/yarn.png");
+          background-size: 20px 20px;}
+.player { background-image: url("images/cat.png");
+          background-size:30px 30px}
+.Milk {background-image: url("images/milk.png");
+          background-size: 20px 20px;}
+.hurt {background-image: url("images/spikes.png");
+          background-size: 35px 35px;}
+
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+.lost .player {
+  background: navy;
+}
+.won .player {
+  background: white;
+}
